@@ -16,6 +16,12 @@
 	padding: 10%;
 }
 
+div.natalia {
+	background: url(./img/natalialkb.jpg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
 div.fac {
 	background: url(./img/fac-logo.png);
     background-size: contain;
