@@ -22,7 +22,7 @@ div.fac {
     background-repeat: no-repeat;
 }
 
-.blue h1 {
+.reveal .blue h1 {
 	color: white;
   	font-size: 20rem;
   	font-weight: 900;
@@ -31,7 +31,7 @@ div.fac {
   	line-height: 0.8;
 }
 
-.blue h2, .blue h3, .blue h4 {
+.reveal .blue h2, .reveal .blue h3 {
 	color: white;
 	letter-spacing: 5px;
   	font-weight: 900;
@@ -41,6 +41,7 @@ div.fac {
 
 .reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal p, .reveal li {
 	font-family: 'Open Sans', arial, sans-serif;
+	color: #424242;
 }
 
 hr {
@@ -55,6 +56,6 @@ hr {
   	font-size: 3rem;
 }
 
-.reveal ol span {
+.reveal span {
 	color: #3CD2CC;
 }
